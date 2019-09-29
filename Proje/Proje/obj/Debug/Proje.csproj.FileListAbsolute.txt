@@ -1,0 +1,8 @@
+c:\users\leventcan\documents\visual studio 2013\Projects\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Leventcan\documents\visual studio 2013\Projects\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Leventcan\documents\visual studio 2013\Projects\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Leventcan\documents\visual studio 2013\Projects\Proje\Proje\obj\Debug\Proje.csprojResolveAssemblyReference.cache
+C:\Users\Leventcan\documents\visual studio 2013\Projects\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Leventcan\documents\visual studio 2013\Projects\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.Cache
+C:\Users\Leventcan\documents\visual studio 2013\Projects\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Leventcan\documents\visual studio 2013\Projects\Proje\Proje\obj\Debug\Proje.pdb
